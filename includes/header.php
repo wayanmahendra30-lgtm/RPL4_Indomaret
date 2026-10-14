@@ -27,12 +27,14 @@
         </div>
 
         <nav>
-            <ul class="nav-menu">
-                <li><a href="#home"><i class="fa-solid fa-house"></i> Beranda</a></li>
-                <li><a href="#projects"><i class="fa-solid fa-code"></i> Project</a></li>
-                <li><a href="#siswa"><i class="fa-solid fa-users"></i> Anggota</a></li>
-                <li><a href="#portal" class="btn-portal"><i class="fa-solid fa-cart-shopping"></i> Retail App</a></li>
-            </ul>
+           <ul class="nav-menu">
+    <li><a href="#dashboard"><i class="fa-solid fa-gauge"></i> Dashboard</a></li>
+    <li><a href="#cashiers"><i class="fa-solid fa-user-tie"></i> Cashiers</a></li>
+    <li><a href="#donations"><i class="fa-solid fa-hand-holding-heart"></i> Donations</a></li>
+    <li><a href="#products"><i class="fa-solid fa-box-archive"></i> Products</a></li>
+    <li><a href="#transactions"><i class="fa-solid fa-receipt"></i> Transactions</a></li>
+    <li><a href="#retail-app" class="btn-portal"><i class="fa-solid fa-cart-shopping"></i> Retail App</a></li>
+</ul>
         </nav>
     </header>
 
